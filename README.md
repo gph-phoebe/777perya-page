@@ -8,7 +8,7 @@ The goal of this build is simple: keep the site lightweight, mobile-friendly, ea
 
 ## 777 Perya Link
 
-Perya 777 login page: [Visit the site here](https://777perya-login.ph/)
+Visit the [Perya 777 login](https://777perya-login.ph/) page here.
 
 ---
 
